@@ -1,7 +1,7 @@
 # sacet-3rd-year-projects-list
 Official Repo for SACET 3rd Year Projects List
 
-# AWS Domain
+# ML Domain
 <table>
   <tr>
     <th>S.No</th>
@@ -9,83 +9,83 @@ Official Repo for SACET 3rd Year Projects List
   </tr>
   <tr>
     <td>1.</td>
-    <td>Celebrity Face Recognition using AWS</td>
+    <td> House Rental Prediction System </td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Create a Remote Repo using AWS CodeCommit</td>
+    <td>Loan Prediction System</td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>Object Detection for Blind using AWS</td>
+    <td>Music Recommendation System</td>
   </tr>
   <tr>
     <td>4.</td>
-    <td>Emotion Recognition using AWS</td>
+    <td>Wine Quality Prediction System</td>
   </tr>
   <tr>
     <td>5.</td>
-    <td>Gender and Age Recognition using AWS</td>
+    <td>Movie Recommendation System</td>
   </tr>
   <tr>
     <td>6.</td>
-    <td>Pneumonia Detection using AWS</td>
+    <td>Ukrain Vs Russia Twitter Sentimental Analysis</td>
   </tr>
   <tr>
     <td>7.</td>
-    <td>Event Certificate Alexa Bot</td>
+    <td>Cryptocurrency Price Prediction System</td>
   </tr>
   <tr>
     <td>8.</td>
-    <td>Covid Bot using Alexa</td>
+    <td>Electricity Price Prediction</td>
   </tr>
   <tr>
     <td>9.</td>
-    <td>News Bot using Alexa</td>
+    <td>Water Quality Analysis</td>
   </tr>
   <tr>
     <td>10.</td>
-    <td>Serverless IoT App</td>
+    <td>Credit Card Fraud Detection</td>
   </tr>
   <tr>
     <td>11.</td>
-    <td>IoT Event Notifier using AWS IoT Core</td>
+    <td>Car Price Prediction System</td>
   </tr>
   <tr>
     <td>12.</td>
-    <td>IoT and ML Web App using IoT Core</td>
+    <td>Student Grades Prediction System</td>
   </tr>
   <tr>
     <td>13.</td>
-    <td>Live Streaming using IVS</td>
+    <td>Ted-Talks Recommendation System</td>
   </tr>
   <tr>
     <td>14.</td>
-    <td>Group Chat</td>
+    <td>Spotify Recommendation System</td>
   </tr>
   <tr>
     <td>15.</td>
-    <td>Deploy a Windows Virtual Machine</td>
+    <td>Gold Price Prediction System</td>
   </tr>
   <tr>
     <td>16.</td>
-    <td>Rapid Document Conversion</td>
+    <td>Earthquake Prediction System</td>
   </tr>
   <tr>
     <td>17.</td>
-    <td>Building a Website using Amazon Lightsail</td>
+    <td>Face Mask Detection</td>
   </tr>
   <tr>
     <td>18.</td>
-    <td>Alexa, Who's at Door</td>
+    <td>Rainfall Prediction System</td>
   </tr>
   <tr>
     <td>19.</td>
-    <td>Host Email Server on AWS</td>
+    <td>Telegram Bot</td>
   </tr>
   <tr>
     <td>20.</td>
-    <td>Host a React Web App on AWS</td>
+    <td>Weather Forecasting</td>
   </tr>
 </table
 
