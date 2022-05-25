@@ -1,7 +1,7 @@
 # sacet-3rd-year-projects-list
 Official Repo for SACET 3rd Year Projects List
 
-# DL Domain
+# Blockchain Domain
 <table>
   <tr>
     <th>S.No</th>
@@ -9,63 +9,83 @@ Official Repo for SACET 3rd Year Projects List
   </tr>
   <tr>
     <td>1.</td>
-    <td>Eye Disease Detection</td>
+    <td>Pet Shop Dapp</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td>Pneumonia Detection System</td>
+    <td>Decentralized Voting</td>
   </tr>
   <tr>
     <td>3.</td>
-    <td>Spinal Cord Abnormalities Detection</td>
+    <td>Storing Sensory Feed in Blockchain</td>
   </tr>
   <tr>
     <td>4.</td>
-    <td>Yoga Tracking System</td>
+    <td>Documents Decentralized Storage</td>
   </tr>
   <tr>
     <td>5.</td>
-    <td>Hand Fingures Tracking Laptop Volume Control</td>
+    <td>Money Wallet using Blockchain</td>
   </tr>
   <tr>
     <td>6.</td>
-    <td>Skin Rash Detection</td>
+    <td>Electronic Medical Records on Blockchain</td>
   </tr>
   <tr>
     <td>7.</td>
-    <td>Face Recognition System</td>
+    <td>Decentralized Vehicle Registration</td>
   </tr>
   <tr>
     <td>8.</td>
-    <td>Banana Ripen Detection System</td>
+    <td>Rent a Tractor on Blockchain</td>
   </tr>
   <tr>
     <td>9.</td>
-    <td>Sign Language Translator</td>
+    <td>Library Management System on Blockchain</td>
   </tr>
   <tr>
     <td>10.</td>
-    <td>English to French Short Words Translator</td>
+    <td>Lending Application on Blockchain</td>
   </tr>
   <tr>
     <td>11.</td>
-    <td>Named Entity Recognition</td>
+    <td>Reduce Insurance Fraud using Blockchain</td>
   </tr>
   <tr>
     <td>12.</td>
-    <td>Traffic Symbols Recognition</td>
+    <td>Transfer Digital Wills using Blockchain</td>
   </tr>
   <tr>
     <td>13.</td>
-    <td>Wild Animals Detection System</td>
+    <td>Lower Electricity Bills using Blockchain</td>
   </tr>
   <tr>
     <td>14.</td>
-    <td>Vehicle Crash Identification System</td>
+    <td>Rent out vehicle parking space on Blockchain</td>
   </tr>
   <tr>
     <td>15.</td>
-    <td>Objects Detection using Yolo</td>
+    <td>Rent a car on Blockchain</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>Share Tokens as Coupons</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>Book Hotel Rooms on Blockchain</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>Complaint Tracking System using Blockchain</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>Give your valuables, a digital Identity on Blockchain</td>
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td>Protect Fine Art by Artists using Blockchain</td>
   </tr>
 </table
 
