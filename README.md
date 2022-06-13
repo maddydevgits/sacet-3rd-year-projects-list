@@ -1,50 +1,42 @@
 # sacet-3rd-year-projects-list
 Official Repo for SACET 3rd Year Projects List
 
-# AR/VR Domain
+# Section - A
 <table>
   <tr>
-    <th>S.No</th>
+    <th>Batch No</th>
     <th>Name of Project</th>
+    <th>Repo</th>
+    <th>Video Link</th>
   </tr>
   <tr>
-    <td>1. </td>
-    <td>VR Heart Collecting Game</td> 
+    <td>1A </td>
+    <td>Named Entity Recognition</td> 
+    <td><a href="#">Repo</a></td>
+    <td><a href="#">Video Link</a></td>
   </tr>
   <tr>
-    <td>2. </td>
-    <td>VR Puzzle Game</td>
+    <td>2A </td>
+    <td>Object Detection</td>
+    <td><a href="#">Repo</a></td>
+    <td><a href="#">Video Link</a></td>
   </tr>
   <tr>
-    <td>3. </td>
-    <td>VR Game</td>
+    <td>3A </td>
+    <td>Alexa Who's at Door?</td>
+    <td><a href="#">Repo</a></td>
+    <td><a href="#">Video Link</a></td>
   </tr>
   <tr>
-    <td>4. </td>
-    <td>AR Marriage Card</td>
+    <td>4A </td>
+    <td>Wild Animals Detection</td>
+    <td><a href="#">Repo</a></td>
+    <td><a href="#">Video Link</a></td>
   </tr>
   <tr>
-    <td>5. </td>
-    <td>AR Interactive Video</td>
-  </tr>
-  <tr>
-    <td>6. </td>
-    <td>AR Face Mask</td>
-  </tr>
-  <tr>
-    <td>7. </td>
-    <td>AR Interactive College Brochure</td>
-  </tr>
-  <tr>
-    <td>8.</td>
-    <td>Mini VR Shooting Game</td>
-  </tr>
-  <tr>
-    <td>9. </td>
-    <td>AR 3D Augmentations using marker</td>
-  </tr>
-  <tr>
-    <td>10. </td>
-    <td>AR 3D Augmentations using markerless</td>
+    <td>5A </td>
+    <td>Gender and Age Classification using AWS</td>
+    <td><a href="#">Repo</a></td>
+    <td><a href="#">Video Link</a></td>
   </tr>
 </table>
